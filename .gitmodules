@@ -1,0 +1,24 @@
+[submodule "pack/plugins/start/ale"]
+	path = pack/plugins/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "pack/plugins/start/vim-snippets"]
+	path = pack/plugins/start/vim-snippets
+	url = git@github.com:honza/vim-snippets.git
+[submodule "pack/plugins/start/ultisnips"]
+	path = pack/plugins/start/ultisnips
+	url = git@github.com:SirVer/ultisnips.git
+[submodule "pack/plugins/start/deoplete"]
+	path = pack/plugins/start/deoplete
+	url = https://github.com/Shougo/deoplete.nvim
+[submodule "pack/plugins/start/vimtex"]
+	path = pack/plugins/start/vimtex
+	url = git@github.com:lervag/vimtex.git
+[submodule "pack/colors/start/one"]
+	path = pack/colors/start/one
+	url = https://github.com/rakr/vim-one.git
+[submodule "pack/plugins/start/nerdtree-git-plugin"]
+	path = pack/plugins/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
